@@ -1,0 +1,14 @@
+{
+  "name": "hyper-intuitif",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo Build termine"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}
